@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mss:home|Door43 (mss)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mss|d43-mss repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mss/archive/master.zip|d43-mss.zip]]
+
+**Recent Changes**
+{{changes>ns = mss}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mss|Ethnologue data]]
+
